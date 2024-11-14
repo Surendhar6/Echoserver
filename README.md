@@ -52,10 +52,12 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### server :
-![Screenshot 2024-09-23 212009](https://github.com/user-attachments/assets/8249cdb6-5c2b-4cfc-898e-b040087ee0a6)
+![Screenshot (191)](https://github.com/user-attachments/assets/d62ba3ab-f615-4fc0-8020-a565ce013a11)
+
 
 ### Client :
-![Screenshot 2024-09-23 212107](https://github.com/user-attachments/assets/a07756b0-551a-4244-adfc-68a0c2e059cf)
+![image](https://github.com/user-attachments/assets/65719781-44ea-439c-afb2-c63ceffa2b48)
+
 
 ## RESULT:
 The program is executed successfully
